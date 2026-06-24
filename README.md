@@ -43,3 +43,4 @@ cd ~/.agent/skills && ln -s ~/.agents/skills/markitdown .
 | `imagegen` | AI image generation |
 | `video` | AI video prompting |
 | `youtube-transcript` | YouTube transcript extraction |
+| `whisper` | Local audio/video transcription |
